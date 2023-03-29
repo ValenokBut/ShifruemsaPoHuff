@@ -67,7 +67,7 @@ int main() {
   for (int i = 0; i < chs.size(); i++) {
     cout << "c: " << chs[i].c << ", n: " << chs[i].n << endl;
   }
-  cout << ":" <<root.c;
+  //cout << ":" <<root.c;
   //find_left(&root);
   //cout << m[' '] << endl; // 68
 
